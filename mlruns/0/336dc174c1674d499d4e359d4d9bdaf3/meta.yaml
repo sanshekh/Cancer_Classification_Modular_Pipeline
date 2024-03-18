@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Satyam/Desktop/Sandeep/Project/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC/mlruns/0/336dc174c1674d499d4e359d4d9bdaf3/artifacts
+end_time: 1710531069230
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 336dc174c1674d499d4e359d4d9bdaf3
+run_name: carefree-slug-801
+run_uuid: 336dc174c1674d499d4e359d4d9bdaf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710531046915
+status: 3
+tags: []
+user_id: Satyam
